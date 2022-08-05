@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+#score {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+
+#timer {
+    float: right;
+    margin-right: 30px;
+    font-size: 30px;
+  }
+
+  #K {
+color: red
+
+  }
